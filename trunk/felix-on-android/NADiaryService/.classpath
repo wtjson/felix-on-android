@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ANDROID_API7"/>
+	<classpathentry kind="lib" path="/Users/globinhemo/Documents/dev/eclipse/android-osgi-tutorial/NAStore/lib/org.apache.felix.main-3.0.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NAStoreViewCreater"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NAStore"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
